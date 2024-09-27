@@ -1,4 +1,4 @@
-## COE3DY4 Project *cloned from github classroom*
+## COE3DY4 Project, *cloned from github classroom*
 
 ### Project Overview
 This repository contains my work on a Real-Time Software Defined Radio (SDR) system for Mono/Stereo FM and RDS, developed as part of the Computer Systems Integration Project at McMaster University. The project demonstrates my capabilities in handling the complexities and challenges of real-time signal processing within constrained environments. 
