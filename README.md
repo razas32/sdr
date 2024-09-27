@@ -1,4 +1,4 @@
-## COE3DY4 project
+## COE3DY4 Project *cloned from github classroom*
 
 ### Project Overview
 This repository contains my work on a Real-Time Software Defined Radio (SDR) system for Mono/Stereo FM and RDS, developed as part of the Computer Systems Integration Project at McMaster University. The project demonstrates my capabilities in handling the complexities and challenges of real-time signal processing within constrained environments. 
@@ -10,7 +10,7 @@ The SDR system is designed to:
 - Operate efficiently under custom sample rates and various signal processing constraints specific to our project group.
 
 ### Technical Highlights
-- **Language & Tools**: The system is primarily developed in C/C++.
+- **Language & Tools**: The system is primarily developed in C/C++. Python was used for system validation
 - **Signal Processing**: Features custom digital signal processing algorithms to handle FM demodulation and RDS decoding.
 - **Optimization**: Focus on optimizing performance for real-time execution within constrained computing environments.
 
